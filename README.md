@@ -1,1 +1,0 @@
-# pantheon-ci-box
